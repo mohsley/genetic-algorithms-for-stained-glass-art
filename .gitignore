@@ -1,0 +1,13 @@
+**/output/
+*.pkl
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+.env
+venv/
+.venv/
+
+.DS_Store
+Thumbs.db
